@@ -92,14 +92,14 @@
     "vite-plugin-istanbul": "^4.0.0",
     "vite-plugin-vuetify": "^1.0.0",
     "vitest": "^0.28.3",
-    "vue": "^3.0.0",
+    "vue": "^3.*",
     "vue-clipboard3": "^2.0.0",
     "vue-tsc": "^1.0.24",
-    "vuetify": "^3.0.0"
+    "vuetify": "^3.*"
   },
   "peerDependencies": {
-    "vue": "^3.0.0",
-    "vuetify": "^3.0.0"
+    "vue": "^3.*",
+    "vuetify": "^3.*"
   },
   "optionalDependencies": {
     "flag-icons": "^6.1.1",
